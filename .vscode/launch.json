@@ -1,0 +1,25 @@
+{
+
+    "configurations": [
+        {
+            "name": "fist_project",
+            "cwd": "fist_project",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fist_project (profile mode)",
+            "cwd": "fist_project",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fist_project (release mode)",
+            "cwd": "fist_project",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
